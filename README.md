@@ -1,2 +1,2 @@
 # Adani-Share-Market-Analysis-
-Using power-BI tool with creating atractive dashboards.
+Using power-BI tool with creating attractive dashboards.
